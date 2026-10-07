@@ -22,6 +22,7 @@ class B extends A
     }
 }
 
+//al cambiar otraFuncion(); a miFuncion(); se cambia la letra
 
 B::otraFuncion();
 
